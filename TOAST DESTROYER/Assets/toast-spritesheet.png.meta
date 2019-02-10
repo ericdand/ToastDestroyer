@@ -1,7 +1,95 @@
 fileFormatVersion: 2
 guid: 21df3a61dc33e4181abadd55290dc021
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: toast-spritesheet_0
+    21300002: toast-spritesheet_1
+    21300004: toast-spritesheet_2
+    21300006: toast-spritesheet_3
+    21300008: toast-spritesheet_4
+    21300010: toast-spritesheet_5
+    21300012: toast-spritesheet_6
+    21300014: toast-spritesheet_7
+    21300016: toast-spritesheet_8
+    21300018: toast-spritesheet_9
+    21300020: toast-spritesheet_10
+    21300022: toast-spritesheet_11
+    21300024: toast-spritesheet_12
+    21300026: toast-spritesheet_13
+    21300028: toast-spritesheet_14
+    21300030: toast-spritesheet_15
+    21300032: toast-spritesheet_16
+    21300034: toast-spritesheet_17
+    21300036: toast-spritesheet_18
+    21300038: toast-spritesheet_19
+    21300040: toast-spritesheet_20
+    21300042: toast-spritesheet_21
+    21300044: toast-spritesheet_22
+    21300046: toast-spritesheet_23
+    21300048: toast-spritesheet_24
+    21300050: toast-spritesheet_25
+    21300052: toast-spritesheet_26
+    21300054: toast-spritesheet_27
+    21300056: toast-spritesheet_28
+    21300058: toast-spritesheet_29
+    21300060: toast-spritesheet_30
+    21300062: toast-spritesheet_31
+    21300064: toast-spritesheet_32
+    21300066: toast-spritesheet_33
+    21300068: toast-spritesheet_34
+    21300070: toast-spritesheet_35
+    21300072: toast-spritesheet_36
+    21300074: toast-spritesheet_37
+    21300076: toast-spritesheet_38
+    21300078: toast-spritesheet_39
+    21300080: toast-spritesheet_40
+    21300082: toast-spritesheet_41
+    21300084: toast-spritesheet_42
+    21300086: toast-spritesheet_43
+    21300088: toast-spritesheet_44
+    21300090: toast-spritesheet_45
+    21300092: toast-spritesheet_46
+    21300094: toast-spritesheet_47
+    21300096: toast-spritesheet_48
+    21300098: toast-spritesheet_49
+    21300100: toast-spritesheet_50
+    21300102: toast-spritesheet_51
+    21300104: toast-spritesheet_52
+    21300106: toast-spritesheet_53
+    21300108: toast-spritesheet_54
+    21300110: toast-spritesheet_55
+    21300112: toast-spritesheet_56
+    21300114: toast-spritesheet_57
+    21300116: toast-spritesheet_58
+    21300118: toast-spritesheet_59
+    21300120: toast-spritesheet_60
+    21300122: toast-spritesheet_61
+    21300124: toast-spritesheet_62
+    21300126: toast-spritesheet_63
+    21300128: toast-spritesheet_64
+    21300130: toast-spritesheet_65
+    21300132: toast-spritesheet_66
+    21300134: toast-spritesheet_67
+    21300136: toast-spritesheet_68
+    21300138: toast-spritesheet_69
+    21300140: toast-spritesheet_70
+    21300142: toast-spritesheet_71
+    21300144: toast-spritesheet_72
+    21300146: toast-spritesheet_73
+    21300148: toast-spritesheet_74
+    21300150: toast-spritesheet_75
+    21300152: toast-spritesheet_76
+    21300154: toast-spritesheet_77
+    21300156: toast-spritesheet_78
+    21300158: toast-spritesheet_79
+    21300160: toast-spritesheet_80
+    21300162: toast-spritesheet_81
+    21300164: toast-spritesheet_82
+    21300166: toast-spritesheet_83
+    21300168: toast-spritesheet_84
+    21300170: toast-spritesheet_85
+    21300172: toast-spritesheet_86
+    21300174: toast-spritesheet_87
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -40,7 +128,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +157,120 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: toast-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbda5ac347bba4043b545bfa6ec5c8c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toast-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990d2acd3a5f46b3afbcb0c34be52b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toast-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1d0ca4fdad419f8f92ba6a261ac61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toast-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90868e10efe44a9fbe2380cbef0ebba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toast-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dc3256308b4843a7665c0462245d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
